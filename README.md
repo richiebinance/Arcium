@@ -2,7 +2,7 @@
 
 ## About This Content
 
-This repository contains **introductory educational content about Arcium in Indonesian language**.
+**Introductory educational content about Arcium in Indonesian language**.
 
 The content is created to help **Indonesian-speaking audiences** understand Arcium’s vision, core concepts, and key features in a **simple, visual, and beginner-friendly** way.
 
